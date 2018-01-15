@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/jasonwynn10/Generic-PM-Forms
+projects:
+  Generic-PM-Forms:
+    path: ""
+    model: virion
+    type: library
+...
