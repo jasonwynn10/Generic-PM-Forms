@@ -1,6 +1,7 @@
 <?php
 declare(strict_types=1);
-namespace jasonwynn10\PFT\forms;
+
+namespace forms;
 
 use pocketmine\command\ConsoleCommandSender;
 use pocketmine\form\Form;
